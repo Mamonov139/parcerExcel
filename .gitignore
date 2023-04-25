@@ -1,0 +1,5 @@
+*.ini
+!example_overlay.ini
+env/
+.idea/
+*.xlsx
